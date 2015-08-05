@@ -1,0 +1,33 @@
+{
+  "name": "location-href",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Simple Node-friendly interface to the browser's location",
+  "license": "MIT",
+  "repository": "bendrucker/location-href",
+  "author": {
+    "email": "bvdrucker@gmail.com",
+    "name": "Ben Drucker",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "browser",
+    "href",
+    "location",
+    "observable"
+  ],
+  "devDependencies": {
+    "proxyquire": "~1.6.0",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "global": "~4.3.0"
+  }
+}
