@@ -1,4 +1,4 @@
-# location-href [![Build Status](https://travis-ci.org/bendrucker/location-href.svg?branch=master)](https://travis-ci.org/bendrucker/location-href)
+# location-href [![Build Status](https://travis-ci.org/bendrucker/location-href.svg?branch=master)](https://travis-ci.org/bendrucker/location-href) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/location-href.svg)](https://greenkeeper.io/)
 
 > Simple Node-friendly interface to the browser's `location`
 
